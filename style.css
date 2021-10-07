@@ -528,7 +528,7 @@ header label{
     font-weight: normal;
     letter-spacing: .1rem;
     color: #FF00FF;
-    border-top: .1rem solid red;
+    border-top: .2rem solid limegreen;
     padding:2.5rem 1rem;
     text-align: center;
 }
