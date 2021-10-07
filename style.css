@@ -450,7 +450,8 @@ header label{
     position: absolute;
     top:1.7rem; left:0;
     font-size: 1.7rem;
-    color:black;
+    color: #0088a9;
+    cursor: pointer;
     transition: .2s linear;
 }
 
