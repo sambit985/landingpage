@@ -79,7 +79,7 @@ header{
 
 header .logo{
     font-size: 2rem;
-    color:var(--mediumspringgreen);
+    color:green;
 }
 
 header .logo span{
