@@ -89,7 +89,7 @@ header .logo span{
 header .navbar a{
     font-size: 1.7rem;
     margin-left: 2rem;
-    color:var(--mediumspringgreen  );
+    color: violet;
 }
 
 header .navbar a:hover{
